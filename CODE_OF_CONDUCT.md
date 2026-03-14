@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We, as participants and contributors in the IBM Full Stack Software Developer Certificate Course, pledge to create a positive and inclusive learning environment for everyone, regardless of background, experience, or identity.
+We, as participants and contributors in the Getting Started with Git and GitHub Certificate Course, pledge to create a positive and inclusive learning environment for everyone, regardless of background, experience, or identity.
 
 ## Our Standards
 
